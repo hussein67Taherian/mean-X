@@ -47,7 +47,7 @@
     "response-time": "^2.3.2",
     "toastr": "^2.1.4",
     "uuid": "^3.3.3",
-    "validator": "^12.1.0"
+    "validator": "^13.7.0"
   },
   "devDependencies": {
     "@types/angular": "^1.6.57",
